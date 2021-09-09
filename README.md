@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Basic Python and Java projects
 - 📫 How to reach me ... Email: ccole0319@gmail.com     Phone: 412-525-2703
-Attach resume to Github
+- Attach resume to Github
 
 
 <!---
