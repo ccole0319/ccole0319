@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cole Carter
-- 👀 I’m interested in ... soccer, golfing, and mountain biking
-- 🌱 I’m currently learning ... Python and Java
-- 💞️ I’m looking to collaborate on ... Basic Python and Java projects
+- 👀 I’m interested in soccer, golfing, and mountain biking
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on Basic Python and Java projects
 - 📫 How to reach me ... Email: ccole0319@gmail.com     Phone: 412-525-2703
 
 <!---
